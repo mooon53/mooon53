@@ -69,8 +69,8 @@ More research code: [Neuro-symbolic experiments and evaluation](https://github.c
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://skillicons.dev/icons?i=python%2Cjava%2Cjs%2Cts%2Creact%2Cspring%2Chtml%2Ccss&amp;perline=8&amp;theme=dark">
-    <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,spring,html,css&amp;perline=8&amp;theme=light" alt="Programming and software development">
+      srcset="https://skillicons.dev/icons?i=python%2Cjava%2Cjs%2Creact%2Cspring%2Chtml%2Ccss&amp;perline=8&amp;theme=dark">
+    <img src="https://skillicons.dev/icons?i=python,java,js,react,spring,html,css&amp;perline=8&amp;theme=light" alt="Programming and software development">
   </picture>
 </p>
 
@@ -105,8 +105,8 @@ More research code: [Neuro-symbolic experiments and evaluation](https://github.c
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cdocker%2Cazure%2Clinux%2Cbash%2Cvscode%2Cpycharm&amp;perline=8&amp;theme=dark">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,azure,linux,bash,vscode,pycharm&amp;perline=8&amp;theme=light" alt="DevOps and engineering tools">
+      srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cdocker%2Cazure%2Cvscode;perline=8&amp;theme=dark">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,azure,vscode;perline=8&amp;theme=light" alt="DevOps and engineering tools">
   </picture>
 </p>
 

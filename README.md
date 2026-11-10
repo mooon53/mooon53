@@ -9,9 +9,10 @@
 </p> -->
 
 <p align="center">
-  <a href="#selected-things-ive-built"><img alt="Selected projects" src="https://img.shields.io/badge/Selected_Projects-324001?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="#things-ive-built"><img alt="Selected projects" src="https://img.shields.io/badge/Selected_Projects-324001?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://github.com/mooon53?tab=repositories"><img alt="Browse repositories" src="https://img.shields.io/badge/Browse_All_Code-6B67B8?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/katyradzkova/"><img alt="LinkedIn profile" src="https://img.shields.io/badge/Let's_Connect-8EA24D?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
 
 ## 🌿 A little about me
 
@@ -87,7 +88,7 @@ I enjoy exploring different areas of technology, connecting ideas, and learning 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,docker,azure,linux,bash,vscode,pycharm&amp;perline=8&amp;theme=dark">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,azure,vscode;perline=8&amp;theme=light" alt="Git, GitHub, Docker, Azure, VS Code">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,azure,linux,bash,vscode,pycharm&amp;perline=8&amp;theme=light" alt="Git, GitHub, Docker, Azure, VS Code">
   </picture>
 </p>
 

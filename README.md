@@ -3,17 +3,15 @@
   <source media="(prefers-color-scheme: light)" srcset="./assets/banners/light.png">
   <img src="./assets/banners/light.png" alt="profile banner" width="100%">
 </picture>
-
-<p align="center">
+<!-- <p align="center">
   <strong>Software Engineering · Data · Artificial Intelligence</strong><br>
   <sub>From an interesting problem to a working solution.</sub>
-</p>
+</p> -->
 
 <p align="center">
   <a href="#selected-things-ive-built"><img alt="Selected projects" src="https://img.shields.io/badge/Selected_Projects-324001?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://github.com/mooon53?tab=repositories"><img alt="Browse repositories" src="https://img.shields.io/badge/Browse_All_Code-6B67B8?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/katyradzkova/"><img alt="LinkedIn profile" src="https://img.shields.io/badge/Let's_Connect-8EA24D?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
 
 ## 🌿 A little about me
 
@@ -30,7 +28,7 @@ I enjoy exploring different areas of technology, connecting ideas, and learning 
   <img src="./assets/decorations/divider_light.png" alt="" width="100%">
 </picture>
 
-## 🧭 What I bring to the workbench
+## 🧭 What I work on
 
 | What I build | What I care about |
 | :--- | :--- |
@@ -39,56 +37,98 @@ I enjoy exploring different areas of technology, connecting ideas, and learning 
 | **Machine learning & analytics** | Data preparation, model comparison, evaluation, explainability, and sound experimental practice. |
 | **Intelligent systems** | Combining LLMs, structured representations, tools, and deterministic checks into usable workflows. |
 
-## 🧪 My woodland lab
+## 🧪 Tools & Technologies
 
-<p align="center"><strong>Languages & application development</strong></p>
+<p align="center"><strong>Programming & Software Development</strong></p>
+
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,java,js,ts,react,spring,html,css,git,github,vscode&amp;perline=11&amp;theme=dark">
-    <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,spring,html,css,git,github,vscode&amp;perline=11&amp;theme=light" alt="Python, Java, JavaScript, TypeScript, React, Spring Boot, HTML, CSS, Git, GitHub, VS Code" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,java,js,ts,react,html,css&amp;perline=8&amp;theme=dark">
+    <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,html,css&amp;perline=8&amp;theme=light" alt="Python, Java, JavaScript, React, Spring Boot, HTML, CSS">
   </picture>
 </p>
 
-<p align="center"><strong>Machine learning, data & infrastructure</strong></p>
+<p align="center"><strong>Data Engineering & Analytics</strong></p>
+
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,docker,pytorch,tensorflow,sklearn,linux,bash,pycharm&amp;perline=8&amp;theme=dark">
-    <img src="https://skillicons.dev/icons?i=postgres,docker,pytorch,tensorflow,sklearn,linux,bash,pycharm&amp;perline=8&amp;theme=light" alt="PostgreSQL, Docker, PyTorch, TensorFlow, scikit-learn, Linux, Bash, PyCharm" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,r&amp;perline=2&amp;theme=dark">
+    <img src="https://skillicons.dev/icons?i=postgres,r&amp;perline=2&amp;theme=light" alt="PostgreSQL and R">
   </picture>
 </p>
 
-<p align="center"><sub>Also working with SQL, Pandas, NumPy, Jupyter, REST APIs, Azure DevOps, Z3, RDF and data visualization tools.</sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-324001?style=flat-square" alt="SQL">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
+</p>
+
+<p align="center"><strong>AI & Machine Learning</strong></p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&amp;perline=3&amp;theme=dark">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&amp;perline=3&amp;theme=light" alt="PyTorch, TensorFlow, scikit-learn">
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
+  <img src="https://img.shields.io/badge/SHAP-6B67B8?style=flat-square" alt="SHAP">
+  <img src="https://img.shields.io/badge/LIME-8EA24D?style=flat-square" alt="LIME">
+  <img src="https://img.shields.io/badge/Z3_Solver-324001?style=flat-square" alt="Z3 Solver">
+  <img src="https://img.shields.io/badge/LLM_Integration-978FC0?style=flat-square" alt="LLM Integration">
+</p>
+
+<p align="center"><strong>DevOps & Engineering Tools</strong></p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,docker,azure,linux,bash,vscode,pycharm&amp;perline=8&amp;theme=dark">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,azure,vscode;perline=8&amp;theme=light" alt="Git, GitHub, Docker, Azure, VS Code">
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" alt="Azure DevOps">
+  <img src="https://img.shields.io/badge/CI%2FCD-324001?style=flat-square" alt="CI/CD">
+  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square" alt="Power Automate">
+  <img src="https://img.shields.io/badge/REST_APIs-6B67B8?style=flat-square" alt="REST APIs">
+</p>
 
 <details>
-<summary><strong>What these tools look like in my projects</strong></summary>
+<summary><strong>How I use these technologies</strong></summary>
 
-- **Backend & web:** Java / Spring Boot, React, REST APIs, PostgreSQL, Docker.
-- **Data engineering:** Python and SQL transformations, reporting automation, data lineage, and validation workflows.
-- **Data science:** ML, experimental comparison, interpretable models, and exploratory analysis.
-- **Applied AI:** Language-model pipelines, structured intermediate representations, symbolic verification, and traceable outputs.
-- **Engineering workflow:** Source control, CI/CD, tests, documentation, and repeatable experiments.
+- **Software development:** Building backend services, REST APIs, interactive web applications, and database-backed systems using Java, Spring Boot, React, and PostgreSQL.
+- **Data engineering:** Writing SQL transformations, processing data with Python and Pandas, automating reporting workflows, and documenting data lineage.
+- **Data science:** Preparing datasets, training and comparing machine learning models, evaluating performance, and applying explainability methods.
+- **Applied AI:** Working with language models, structured representations, and symbolic reasoning to develop testable AI workflows.
+- **Engineering & delivery:** Using Git, Azure DevOps, Docker, automated pipelines, and testing to develop maintainable, reproducible solutions.
 
 </details>
 
-## 📚 Selected things I've built
 
-*Four perspectives on my work, spanning model-building, AI applications, data workflows and software delivery.*
+## 🗂️ Things I've built
 
+| Project | What it demonstrates | Explore |
+| :--- | :--- | :--- |
 | **Green AI · Credit Risk Prediction** | ML experimentation: preprocessing, classification, model comparison, SHAP/LIME explainability and energy-impact measurement. | [Code & methodology](https://github.com/mooon53/p2p-default-risk-prediction) |
 | **AI-Powered Validation · Interactive PoC** | Python application combining PDF/CSV ingestion, language-model outputs, structured constraints, Z3 checks, decision traces, reports and a Streamlit interface. | [Code & application](https://github.com/mooon53/neuro-symbolic-compliance-validation-poc) |
 | **Data Visualization** | Exploring datasets and creating interpretable visual output through code. | [Explore repository](https://github.com/mooon53/visualization_project) |
-| **Full-Stack Web Application** | React, Spring Boot, REST APIs, PostgreSQL, authentication and containerized deployment. | *Private source. Public demo/link can be added later.* |
+| **Full-Stack Web Application** | React, Spring Boot, REST APIs, PostgreSQL, authentication and containerized deployment. | [Live website](https://www.spi-estate.com/en/) |
 
-<sub>Additional research code: [Neuro-symbolic experiments and evaluation](https://github.com/mooon53/neuro-symbolic-compliance-validation).</sub>
+Additional research code: [Neuro-symbolic experiments and evaluation](https://github.com/mooon53/neuro-symbolic-compliance-validation).
+
 
 ### 🌱 Engineering in practice
 
 Some of my strongest engineering experience comes from work that cannot be published as source code:
 
-**Data pipelines & CI/CD · FMO.** During my internship, I took ownership of automating a recurring regulatory reporting workflow, bringing Python/SQL transformations and repeatable report generation into a version-controlled Azure DevOps pipeline. The work reduced manual effort, improved accuracy and made reporting more auditable. *Internal code is not publicly available.*
+**Data pipelines & CI/CD @FMO.** During my internship, I took ownership of automating a recurring regulatory reporting workflow, bringing Python/SQL transformations and repeatable report generation into a version-controlled Azure DevOps pipeline. The work reduced manual effort, improved accuracy and made reporting more auditable. *Code is not available due to confidentiality reasons.*
 
-**Full-stack product engineering.** I've built web applications with React, Spring Boot, PostgreSQL and Docker, connecting interfaces, APIs, storage and deployment. *Public source or demo link to be added when available.*
-
+**Full-stack product engineering.** I've built web applications with React, Spring Boot, PostgreSQL and Docker, connecting interfaces, APIs, storage and deployment. [Live website](https://www.spi-estate.com/en/)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/decorations/divider_dark.png">

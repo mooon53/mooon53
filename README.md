@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/banners/dark.png">
   <source media="(prefers-color-scheme: light)" srcset="./assets/banners/light.png">
-  <img src="./assets/banners/light.png" alt="Katy Radzkova's woodland laboratory, with botanical books, flowers, a flask and a forest landscape" width="100%">
+  <img src="./assets/banners/light.png" alt="profile banner" width="100%">
 </picture>
 
 <p align="center">
@@ -10,9 +10,10 @@
 </p>
 
 <p align="center">
-  <a href="#selected-things-ive-built"><img alt="Jump to selected projects" src="https://img.shields.io/badge/Selected_projects-324001?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://github.com/mooon53?tab=repositories"><img alt="Browse my repositories" src="https://img.shields.io/badge/Browse_all_code-6B67B8?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
+  <a href="#selected-things-ive-built"><img alt="Selected projects" src="https://img.shields.io/badge/Selected_Projects-324001?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/mooon53?tab=repositories"><img alt="Browse repositories" src="https://img.shields.io/badge/Browse_All_Code-6B67B8?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/katyradzkova/"><img alt="LinkedIn profile" src="https://img.shields.io/badge/Let's_Connect-8EA24D?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
 
 ## 🌿 A little about me
 
@@ -20,9 +21,9 @@ Hi, I'm **Katy**!
 
 I'm a developer with a background in Computer Science and Data Science & AI, currently based in the Netherlands.
 
-I've always been curious about how things work, and even more curious about how to make them work better. I love turning ideas into something real, whether that means building software from scratch, experimenting with machine learning, or finding a clever way that makes life easier.
+I've always been curious about how things work, and even more curious about how to make them work better. I love turning ideas into something real, whether that means building software from scratch, experimenting with machine learning, or finding a clever way to make life easier.
 
-I enjoy exploring different areas of technology, connecting ideas, and learning whatever I need to bring a project to life. I believe the most interesting projects often start with a simple question:  *What if I tried making this?*
+I enjoy exploring different areas of technology, connecting ideas, and learning whatever I need to bring a project to life. I believe the most interesting projects often start with a simple question: *What if I tried making this?*
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/decorations/divider_dark.png">
@@ -56,16 +57,16 @@ I enjoy exploring different areas of technology, connecting ideas, and learning 
   </picture>
 </p>
 
-<p align="center"><sub>Also working with SQL, Pandas, NumPy, Jupyter, REST APIs, Azure DevOps, Z3, RDF and data-visualization tools.</sub></p>
+<p align="center"><sub>Also working with SQL, Pandas, NumPy, Jupyter, REST APIs, Azure DevOps, Z3, RDF and data visualization tools.</sub></p>
 
 <details>
 <summary><strong>What these tools look like in my projects</strong></summary>
 
-- **Backend and web:** Java / Spring Boot, React, REST APIs, PostgreSQL, Docker.
+- **Backend & web:** Java / Spring Boot, React, REST APIs, PostgreSQL, Docker.
 - **Data engineering:** Python and SQL transformations, reporting automation, data lineage, and validation workflows.
-- **Data science:** supervised ML, experimental comparison, interpretable models, and exploratory analysis.
-- **Applied AI:** language-model pipelines, structured intermediate representations, symbolic verification, and traceable outputs.
-- **Engineering workflow:** source control, CI/CD, tests, documentation, and repeatable experiments.
+- **Data science:** ML, experimental comparison, interpretable models, and exploratory analysis.
+- **Applied AI:** Language-model pipelines, structured intermediate representations, symbolic verification, and traceable outputs.
+- **Engineering workflow:** Source control, CI/CD, tests, documentation, and repeatable experiments.
 
 </details>
 
@@ -73,22 +74,21 @@ I enjoy exploring different areas of technology, connecting ideas, and learning 
 
 *Four perspectives on my work, spanning model-building, AI applications, data workflows and software delivery.*
 
-| Project | What it demonstrates | Explore |
-| :--- | :--- | :--- |
-| **Green AI · Credit Risk Prediction** | End-to-end ML experimentation: data preprocessing, classification, model comparison, SHAP/LIME explainability, and energy-impact measurement. | [Code & methodology](https://github.com/mooon53/p2p-default-risk-prediction) |
-| **AI-Powered Validation · Interactive PoC** | A Python application integrating PDF/CSV ingestion, language-model outputs, structured constraints, Z3 checks, decision traces, reports, and a Streamlit interface. | [Code & application](https://github.com/mooon53/neuro-symbolic-compliance-validation-poc) |
-| **Data Visualization** | Turning data into interpretable visual output and exploring information through code. | [Explore repository](https://github.com/mooon53/visualization_project) |
-| **Full-Stack Web Application** | React UI, Spring Boot services, REST endpoints, PostgreSQL, authentication, and Docker deployment. | *Source code not publicly available* |
+| **Green AI · Credit Risk Prediction** | ML experimentation: preprocessing, classification, model comparison, SHAP/LIME explainability and energy-impact measurement. | [Code & methodology](https://github.com/mooon53/p2p-default-risk-prediction) |
+| **AI-Powered Validation · Interactive PoC** | Python application combining PDF/CSV ingestion, language-model outputs, structured constraints, Z3 checks, decision traces, reports and a Streamlit interface. | [Code & application](https://github.com/mooon53/neuro-symbolic-compliance-validation-poc) |
+| **Data Visualization** | Exploring datasets and creating interpretable visual output through code. | [Explore repository](https://github.com/mooon53/visualization_project) |
+| **Full-Stack Web Application** | React, Spring Boot, REST APIs, PostgreSQL, authentication and containerized deployment. | *Private source. Public demo/link can be added later.* |
 
-Additional research code: [Neuro-symbolic experiments and evaluation](https://github.com/mooon53/neuro-symbolic-compliance-validation).
+<sub>Additional research code: [Neuro-symbolic experiments and evaluation](https://github.com/mooon53/neuro-symbolic-compliance-validation).</sub>
 
 ### 🌱 Engineering in practice
 
 Some of my strongest engineering experience comes from work that cannot be published as source code:
 
-**Data pipelines & CI/CD · FMO.** Took ownership of automating a recurring regulatory-reporting workflow, bringing Python/SQL transformations and repeatable report generation into a version-controlled Azure DevOps pipeline. The aim was to reduce manual work, improve accuracy, and make the process auditable. **The code is not published here due to confidentiality reasons.**
+**Data pipelines & CI/CD · FMO.** During my internship, I took ownership of automating a recurring regulatory reporting workflow, bringing Python/SQL transformations and repeatable report generation into a version-controlled Azure DevOps pipeline. The work reduced manual effort, improved accuracy and made reporting more auditable. *Internal code is not publicly available.*
 
-**Full-stack product engineering** I have worked with React, Spring Boot, PostgreSQL, Docker, and supporting services to build and deploy web applications. I enjoy connecting the complete system: UI, APIs, storage, deployment, and operational concerns. **The code is not published here due to confidentiality reasons.**
+**Full-stack product engineering.** I've built web applications with React, Spring Boot, PostgreSQL and Docker, connecting interfaces, APIs, storage and deployment. *Public source or demo link to be added when available.*
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/decorations/divider_dark.png">
@@ -109,9 +109,12 @@ When I'm not debugging something, you'll probably find me making tea, travelling
 </picture>
 
 <p align="center">
-  <strong>✉️ Leave a little note</strong><br>
-  <a href="https://github.com/mooon53?tab=repositories">My repositories</a> · <a href="https://github.com/mooon53">GitHub</a><br>
-  <sub>LinkedIn · CV · Email: add your real public links here before publishing.</sub><br>
-  <sub>Thanks for visiting my little woodland laboratory.</sub>
+  <strong>✉️ Leave a little note</strong><br><br>
+  <a href="https://www.linkedin.com/in/katyradzkova/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-6B67B8?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:katherinrad2409@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-324001?style=flat-square&logo=gmail&logoColor=white"></a>
+  <!-- <a href="YOUR_CV_URL"><img alt="Resume" src="https://img.shields.io/badge/Resume-978FC0?style=flat-square&logo=readme&logoColor=white"></a> -->
+  <a href="https://github.com/mooon53?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/GitHub-8EA24D?style=flat-square&logo=github&logoColor=white"></a>
+  <br><br>
+  <sub>Thanks for visiting! 🌿</sub>
 </p>
 

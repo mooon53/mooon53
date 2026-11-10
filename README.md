@@ -62,52 +62,63 @@ More research code: [Neuro-symbolic experiments and evaluation](https://github.c
 ## 🧪 Tools & Technologies
 
 
-<!-- Programming & Software Development -->
-<p align="center">
-  <strong>Programming & Software Development</strong>
-</p>
+<p align="center"><strong>Programming & Software Development</strong></p>
+
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://skillicons.dev/icons?i=python%2Cjava%2Cjs%2Cts%2Creact%2Cspring%2Chtml%2Ccss&amp;perline=8&amp;theme=dark">
-    <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,spring,html,css&amp;perline=8&amp;theme=light" alt="Programming and software development">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cjava%2Cjs%2Creact%2Cspring%2Chtml%2Ccss&amp;perline=8&amp;theme=dark">
+    <img src="https://skillicons.dev/icons?i=python,java,js,react,spring,html,css&amp;perline=8&amp;theme=light" alt="Python, Java, JavaScript, React, Spring Boot, HTML, CSS">
   </picture>
 </p>
 
-<!-- Data Engineering & Analytics -->
-<p align="center">
-  <strong>Data Engineering & Analytics</strong>
-</p>
+<p align="center"><strong>Data Engineering & Analytics</strong></p>
+
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://skillicons.dev/icons?i=postgres%2Cr&amp;perline=2&amp;theme=dark">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres%2Cr&amp;perline=2&amp;theme=dark">
     <img src="https://skillicons.dev/icons?i=postgres,r&amp;perline=2&amp;theme=light" alt="PostgreSQL and R">
   </picture>
 </p>
 
-<!-- AI & Machine Learning -->
 <p align="center">
-  <strong>AI & Machine Learning</strong>
+  <img src="https://img.shields.io/badge/SQL-324001?style=flat-square" alt="SQL">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&amp;logo=pandas&amp;logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&amp;logo=numpy&amp;logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&amp;logo=apachespark&amp;logoColor=white" alt="PySpark">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&amp;logo=powerbi&amp;logoColor=black" alt="Power BI">
 </p>
+
+<p align="center"><strong>AI & Machine Learning</strong></p>
+
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://skillicons.dev/icons?i=pytorch%2Ctensorflow%2Csklearn&amp;perline=3&amp;theme=dark">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&amp;perline=3&amp;theme=light" alt="AI and machine learning tools">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch%2Ctensorflow%2Csklearn&amp;perline=3&amp;theme=dark">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&amp;perline=3&amp;theme=light" alt="PyTorch, TensorFlow, scikit-learn">
   </picture>
 </p>
 
-<!-- DevOps & Engineering Tools -->
 <p align="center">
-  <strong>DevOps & Engineering Tools</strong>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&amp;logo=jupyter&amp;logoColor=white" alt="Jupyter">
+  <img src="https://img.shields.io/badge/SHAP-6B67B8?style=flat-square" alt="SHAP">
+  <img src="https://img.shields.io/badge/LIME-8EA24D?style=flat-square" alt="LIME">
+  <img src="https://img.shields.io/badge/Z3_Solver-324001?style=flat-square" alt="Z3 Solver">
+  <img src="https://img.shields.io/badge/LLM_Integration-978FC0?style=flat-square" alt="LLM Integration">
 </p>
+
+<p align="center"><strong>DevOps & Engineering Tools</strong></p>
+
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cdocker%2Cazure%2Clinux%2Cbash%2Cvscode%2Cpycharm&amp;perline=8&amp;theme=dark">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,azure,linux,bash,vscode,pycharm&amp;perline=8&amp;theme=light" alt="DevOps and engineering tools">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,docker,azure,linux,bash,vscodep;perline=8&amp;theme=dark">
+    <img src="https://skillicons.dev/icons?i=git%2Cdocker%2Cazure%2Cvscode;perline=8&amp;theme=light" alt="Git, Docker, Azure, Linux, Bash, VS Code, PyCharm">
   </picture>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&amp;logo=azuredevops&amp;logoColor=white" alt="Azure DevOps">
+  <img src="https://img.shields.io/badge/CI%2FCD-324001?style=flat-square" alt="CI/CD">
+  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square" alt="Power Automate">
+  <img src="https://img.shields.io/badge/REST_APIs-6B67B8?style=flat-square" alt="REST APIs">
 </p>
 
 <details>
